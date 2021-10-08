@@ -1,6 +1,10 @@
 {
-  "name": "Foo",
-  "surname": "Bar",
-  "age": 21,
-  "token": "jwt-token-for-auth"
+	"users": [
+		{
+			"name": "Foo",
+			"surname": "Bar",
+			"age": 21,
+			"token": "jwt-token-for-auth"
+		}
+	]
 }
